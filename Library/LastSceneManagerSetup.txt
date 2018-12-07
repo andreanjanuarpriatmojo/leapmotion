@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/LeapMotion/Core/Examples/Capsule Hand (VR).unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/trinusLib/sample/sample.unity
+  isLoaded: 1
+  isActive: 1
